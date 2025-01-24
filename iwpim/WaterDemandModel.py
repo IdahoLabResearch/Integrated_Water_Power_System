@@ -31,8 +31,9 @@ class WaterDemand(AtomicDEVS):
 
 		self.total_time = 0	#Total time of simulation
 		
-		file_path = r'/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO PRojects/FY21/Model_LatestVersion'
-		#file_path = r'/Users/tobad/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/INL_PROJECTS/WPTO Projects/FY21/Model_LatestVersion'
+		#File path
+		file_path = r'C:/...'
+
 
 		# Read the demand 
 		real = file_path + r'/Data/waterDemand.csv'
