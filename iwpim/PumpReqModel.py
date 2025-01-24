@@ -34,8 +34,8 @@ class PumpReq(AtomicDEVS):
 		self.total_time = 0	#Total time of simulation
 
 		#Read the pumps characteristics
-		#file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO PRojects/FY21/Model_LatestVersion'
-		file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO Projects/FY21/Model_LatestVersion'
+		file_path = r'C:/...'
+
 
 		os.chdir(file_path)
 		pump = file_path + r'/Data/waterPump.csv'
