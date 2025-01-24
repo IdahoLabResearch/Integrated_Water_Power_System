@@ -1,42 +1,13 @@
-HydroGenerate
-Python Library for Vehicular Emission Estimation (PyEmission)
+# Interdependent Water and Power Infrastructure Model (IWPIM)
 
-PyEmission is a Python library for estimation of vehicular emissions and fuel consumption. This tool covers a wide range of light duty motor vehicles including passenger car, SUV, passenger truck, and light commercial truck. The tool only takes second-by-second driving cycle and vehicle characteristics data as inputs and generate results of vehicular emissions (CO2, CO, NOx, and HC) and fuel consumption.
+IWPIM is simulation model that analyzes water-power interdependencies to identify vulnerabilities, enhance system resilience, and support sustainable infrastructure solutions for rural systems. Rural and remote communities are at a heightened risk of disruptions in essential water and power systems. Failures in one infrastructure often cascade into the other, amplifying impacts and jeopardizing critical services. The model analyzes the impacts of diruptions of the water system on the power system, and vice versa. 
 
-A detailed description of this software methodology can be found in this Journal Article.
+A detailed description of this software methodology can be found in this [Journal Article](https://www.cell.com/heliyon/fulltext/S2405-8440(24)08153-2).
 
-User Manual
-Please check this user manual to learn how to use this library.
 
-Other Software
-Idaho National Laboratory is a cutting edge research facility which is a constantly producing high quality research and software. Feel free to take a look at our other software and scientific offerings at:
+## Required Software
+This model is built using Python, version 3.12.7, and PythonPDEVS, a modular simulator for the Parallel DEVS formalism. 
+Installation for PythonPDEVS can be found [here](https://msdl.uantwerpen.be/documentation/PythonPDEVS/index.html), and information on DEVS [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9004690). 
 
-Primary Technology Offerings Page
-
-Supported Open Source Software
-
-Raw Experiment Open Source Software
-
-Unsupported Open Source Software
-
-License
-Copyright 2021 Battelle Energy Alliance, LLC
-
-Licensed under the LICENSE TYPE (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-https://opensource.org/licenses/Apache-2.0 - LINK TO OSI FOR LICENSE Apache-2 IS AN EXAMPLE
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
-Licensing
-This software is licensed under the terms you may find in the file named "LICENSE" in this directory.
-
-Developers
-By contributing to this software project, you are agreeing to the following terms and conditions for your contributions:
-
-You agree your contributions are submitted under the Apache-2 license. You represent you are authorized to make the contributions and grant the license. If your employer has rights to intellectual property that includes your contributions, you represent that you have received permission to make contributions and grant the required license on behalf of that employer.
-
-Authors
-Md Mamunur Rahman (mdmamunur.rahman@inl.gov)
-
-Ruby Thuy Nguyen (ruby.nguyen@inl.gov)
+## Authors
+Lionel Toba (danhoangelionel.toba@inl.gov)
