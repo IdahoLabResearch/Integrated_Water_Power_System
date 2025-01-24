@@ -34,8 +34,7 @@ class WaterSystem(CoupledDEVS):
 		self.name = name	
 		
 		#File path 
-		file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO Projects/FY21/Model_LatestVersion'
-
+		file_path = r'C:/...'
 
 		# Read document 
 		waterdmd = file_path + r'/Data/waterDemand.csv'
