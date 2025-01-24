@@ -46,8 +46,7 @@ class PowerSource(AtomicDEVS):
 		self.waterUsedList = [] #track the amount of water used to update capacity 
 
 		#Get the forecast demand 	
-		#file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO PRojects/FY21/Model_LatestVersion'
-		file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO Projects/FY21/Model_LatestVersion'
+		file_path = r'C:/...'
 
 		os.chdir(file_path)
 		forecasted = file_path + r'/Data/powerForecastDemand.csv'
