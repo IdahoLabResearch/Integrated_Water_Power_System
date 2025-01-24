@@ -21,7 +21,6 @@ import numpy as np
 
 class WaterSource(AtomicDEVS): 
     #Each water source is characterized by those parameters
-	#def __init__(self, name=None, location = None ): #Add characteristics of the generator
 	def __init__(self, name=None, zone = None ): #Add characteristics of the generator
       
 		# Always call parent class' constructor FIRST:
