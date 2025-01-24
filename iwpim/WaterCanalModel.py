@@ -66,8 +66,7 @@ class WaterCanal(AtomicDEVS):
         self.TotalwaterUsed = 0 # total water used 
 
 		#Get the forecast demand 		
-        file_path = r'C:/Users/TOBAD/OneDrive - Idaho National Laboratory/INL_PROJECTS/WPTO PRojects/FY21/Model_LatestVersion'
-        #file_path = r'/Users/tobad/Library/CloudStorage/OneDrive-IdahoNationalLaboratory/INL_PROJECTS/WPTO Projects/FY21/Model_LatestVersion'
+	file_path = r'C:/...'
 
         self.forecasted = file_path + r'/Data/waterForecastDemand.csv' #Data file for forecasted demand
         self.approach = file_path + r"/Data/irrgMod.csv"
