@@ -1,0 +1,4 @@
+Source,Category,Capacity,Threshold,Head,ReplenishFlow,Efficiency,Cost,Power,Irrigation,Location
+Source1,Hydro,4019402653,5000,74,500,0.8,0,0.75,0.25,Region1
+Source2,Gas,0.1,,,,0.8,1,,,Region1
+Source3,Gas,0.5,,,,0.8,1,,,Region2

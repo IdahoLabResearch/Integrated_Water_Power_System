@@ -1,0 +1,5 @@
+Canal,Origin,Destination,Region,Flow,Loss (Ac-ft/yr),Loss (Ac-ft)
+canal20,canal20,canal20,Region1,4609,1000,0.35
+canal30,Canal30,Canal30,Region2,3500,2000,0.35
+canal40,Canal30,Canal30,Region2,4000,3000,0.35
+canal50,Canal30,Canal30,Region3,2500,4000,0.35

@@ -1,0 +1,5 @@
+Name,Origin,Destination,Capacity
+Conduit12,Region1,Region2,0
+Conduit21,Region2,Region1,0
+Conduit31,Region3,Region1,1000
+Conduit13,Region1,Region3,1000

@@ -1,0 +1,2 @@
+Source,Category,Capacity,Threshold,Head,ReplenishFlow,Irrigation,Power,Flow1,Flow2,Flow3,RunTime1,RunTime2,RunTime3,Location
+source1,dam,4019402653,5000,74,500,0.25,0.75,5,6,7,60,50,58,MID_location

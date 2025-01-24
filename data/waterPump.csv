@@ -1,0 +1,4 @@
+Pump,Region,Power (MW),canal,Outgage,Horsepower,Converter,psi,Source ,
+pump1,Region1,0,canal20,No,250,0.0007457,70,https://help.dripdepot.com/support/solutions/articles/11000097310-flow-vs-pressure-in-an-irrigation-system#:~:text=Most%20residential%20water%20pressures%20are,of%20damage%20over%20this%20range.
+pump2,Region2,0,canal30,No,200,0.0007457,70,https://help.dripdepot.com/support/solutions/articles/11000097310-flow-vs-pressure-in-an-irrigation-system#:~:text=Most%20residential%20water%20pressures%20are,of%20damage%20over%20this%20range.
+pump3,Region2,0,canal40,No,200,0.0007457,70,https://help.dripdepot.com/support/solutions/articles/11000097310-flow-vs-pressure-in-an-irrigation-system#:~:text=Most%20residential%20water%20pressures%20are,of%20damage%20over%20this%20range.

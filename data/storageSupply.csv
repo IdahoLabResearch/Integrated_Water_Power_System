@@ -1,0 +1,4 @@
+Source,Capacity,Location,Inflow,Outflow,Quantity
+Storage1,10000,Region1,200,500,1000
+Storage2,10000,Region2,200,500,2000
+Storage3,10000,Region3,200,500,3000
