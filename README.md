@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 # Interdependent Water and Power Infrastructure Model (IWPIM)
 
 IWPIM is simulation model that analyzes water-power interdependencies to identify vulnerabilities, enhance system resilience, and support sustainable infrastructure solutions for rural systems. Rural and remote communities are at a heightened risk of disruptions in essential water and power systems. Failures in one infrastructure often cascade into the other, amplifying impacts and jeopardizing critical services. The model analyzes the impacts of diruptions of the water system on the power system, and vice versa. More details on the software can be found on [IWPIM page](https://inlsoftware.inl.gov/product/IWPIM)
